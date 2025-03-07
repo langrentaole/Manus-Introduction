@@ -1,4 +1,4 @@
-# [Manus Resource Hub](aimanus.org) - The Ultimate Collection of Manus Use Cases
+# [Manus Resource Hub](https://aimanus.org) - The Ultimate Collection of Manus Use Cases
 
 Welcome to **Manus Resource Hub**, the most comprehensive platform dedicated to collecting, organizing, and sharing Manus-related content from across the web. Our mission is to provide a centralized location where users can discover the full potential of Manus through real-world applications, detailed case studies, and curated resources.
 
